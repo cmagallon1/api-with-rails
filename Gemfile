@@ -24,6 +24,9 @@ gem 'active_model_serializers', '~> 0.10.0'#creaates serializers, its a easiest 
 
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
+gem "yard", ">= 0.9.20"
+#newest version
+gem "nokogiri", ">= 1.10.4"
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
